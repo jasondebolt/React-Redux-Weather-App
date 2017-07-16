@@ -1,5 +1,8 @@
 # React-Redux-Weather-App
 
+### Wiki
+Check out the (project wiki)[https://github.com/jasondebolt/React-Redux-Weather-App/wiki] for the react flow diagram.
+
 ### Getting Started
 
 ```
