@@ -1,5 +1,5 @@
 {
-  "name": "redux-simple-starter",
+  "name": "react-redux-weather-app",
   "version": "1.0.0",
   "description": "Simple weather app using React and Redux.",
   "main": "index.js",
